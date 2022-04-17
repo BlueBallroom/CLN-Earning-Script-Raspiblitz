@@ -12,6 +12,8 @@ Copy the earning.sh file into the directory
 Make the file executable
 
     sudo chmod a+x earning.sh
+
+## Operation
     
 Run the script within the same directory
 
